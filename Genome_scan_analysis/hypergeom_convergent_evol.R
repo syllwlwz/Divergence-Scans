@@ -5,7 +5,7 @@
 #n=(total number of genes on platform-m); k=number of upregulated genes in experiment #2.
 
 
-#‘pick m balls from a jar of n balls, then repeat by picking k balls: what is the significance of exactly q overlap. 
+#â€˜pick m balls from a jar of n balls, then repeat by picking k balls: what is the significance of exactly q overlap. 
 
 #halleri
 q=35-1
