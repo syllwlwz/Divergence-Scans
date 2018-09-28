@@ -1,0 +1,32 @@
+Metadata-Version: 1.1
+Name: hapflk
+Version: 1.3.0
+Summary: haplotype-based test for differentiation in multiple populations
+Home-page: https://forge-dga.jouy.inra.fr/projects/hapflk
+Author: Bertrand Servin
+Author-email: bertrand.servin@toulouse.inra.fr
+License: GPL v3
+Description: hapflk: haplotype-based test for differentiation in multiple populations
+        
+        hapflk is a software implementing the hapFLK [1] and FLK [2] tests for
+        the detection of selection signatures based on multiple population
+        genotyping data.
+        
+        [1] Fariello et al., 2013, Detecting Signatures of Selection Through
+        Haplotype Differentiation Among Hierarchically Structured
+        Populations. Genetics
+        193(3):929-941. http://www.genetics.org/content/193/3/929.abstract
+        
+        [2] Bonhomme et al., 2010, Detecting selection in population trees:
+        The Lewontin and Krakauer test extended. Genetics 186(1) 241-262
+        http://www.genetics.org/content/186/1/241.abstract
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering
