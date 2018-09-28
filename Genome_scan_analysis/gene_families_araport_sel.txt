@@ -7963,30 +7963,30 @@ Superfamily of zinc-coordinating DNA-binding proteins	SBP-box family of putative
 Superfamily of zinc-coordinating DNA-binding proteins	SBP-box family of putative plant transcription factors	At3g57920
 Superfamily of zinc-coordinating DNA-binding proteins	SBP-box family of putative plant transcription factors	At5g50570
 Superfamily of zinc-coordinating DNA-binding proteins	SBP-box family of putative plant transcription factors	At5g50670
-TCP transcription factor family  	Class I subfamily 	At5g41030
-TCP transcription factor family  	Class I subfamily 	At5g23280
-TCP transcription factor family  	Class I subfamily 	At1g58100
-TCP transcription factor family  	Class I subfamily 	At2g45680
-TCP transcription factor family  	Class I subfamily 	At2g37000
-TCP transcription factor family  	Class I subfamily 	At3g47620
-TCP transcription factor family  	Class I subfamily 	At1g69690
-TCP transcription factor family  	Class I subfamily 	At3g45150
-TCP transcription factor family  	Class I subfamily 	At5g51910
-TCP transcription factor family  	Class I subfamily 	At3g27010
-TCP transcription factor family  	Class I subfamily 	At5g08330
-TCP transcription factor family  	Class I subfamily 	At1g72010
-TCP transcription factor family  	Class I subfamily 	At1g35560
-TCP transcription factor family  	Class II subfamily 	At1g67260
-TCP transcription factor family  	Class II subfamily 	At4g18390
-TCP transcription factor family  	Class II subfamily 	At1g53230
-TCP transcription factor family  	Class II subfamily 	At3g15030
-TCP transcription factor family  	Class II subfamily 	At5g60970
-TCP transcription factor family  	Class II subfamily 	At1g68800
-TCP transcription factor family  	Class II subfamily 	At3g02150
-TCP transcription factor family  	Class II subfamily 	At2g31070
-TCP transcription factor family  	Class II subfamily 	At5g08070
-TCP transcription factor family  	Class II subfamily 	At3g18550
-TCP transcription factor family  	Class II subfamily 	At1g30210
+TCP transcription factor family Â 	Class I subfamily 	At5g41030
+TCP transcription factor family Â 	Class I subfamily 	At5g23280
+TCP transcription factor family Â 	Class I subfamily 	At1g58100
+TCP transcription factor family Â 	Class I subfamily 	At2g45680
+TCP transcription factor family Â 	Class I subfamily 	At2g37000
+TCP transcription factor family Â 	Class I subfamily 	At3g47620
+TCP transcription factor family Â 	Class I subfamily 	At1g69690
+TCP transcription factor family Â 	Class I subfamily 	At3g45150
+TCP transcription factor family Â 	Class I subfamily 	At5g51910
+TCP transcription factor family Â 	Class I subfamily 	At3g27010
+TCP transcription factor family Â 	Class I subfamily 	At5g08330
+TCP transcription factor family Â 	Class I subfamily 	At1g72010
+TCP transcription factor family Â 	Class I subfamily 	At1g35560
+TCP transcription factor family Â 	Class II subfamily 	At1g67260
+TCP transcription factor family Â 	Class II subfamily 	At4g18390
+TCP transcription factor family Â 	Class II subfamily 	At1g53230
+TCP transcription factor family Â 	Class II subfamily 	At3g15030
+TCP transcription factor family Â 	Class II subfamily 	At5g60970
+TCP transcription factor family Â 	Class II subfamily 	At1g68800
+TCP transcription factor family Â 	Class II subfamily 	At3g02150
+TCP transcription factor family Â 	Class II subfamily 	At2g31070
+TCP transcription factor family Â 	Class II subfamily 	At5g08070
+TCP transcription factor family Â 	Class II subfamily 	At3g18550
+TCP transcription factor family Â 	Class II subfamily 	At1g30210
 TGA3-like	NULL	At1g22070
 TGA3-like	NULL	At1g77920
 TGA3-like	NULL	At5g10030
